@@ -7,6 +7,7 @@ Grapho App is a project of Global Graphologists Association. A registered non-pr
 How it works.
 
 The grapho app database has 4 components.
+
 1. Formation title
 2. Formation image
 3. What that formation means in graphology. - Science
